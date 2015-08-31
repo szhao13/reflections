@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+You create an empty repository. This creates all the necessary files and the space to create your new project.
