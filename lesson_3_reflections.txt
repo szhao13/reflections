@@ -9,3 +9,6 @@ Fork makes a copy of a repository through GitHub only. Clone makes a copy of a r
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can work offline and you don't have to resolve conflicts between your local repository and the github repository immediately while you still have internet access.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder
+If you wanted to collaborate without using Git or GitHub, you could use email or Dropbox to share files. It would be easier to share the change because you wouldn't need to add, commit, push and then merge - but then you would have to meet up to discuss conflicts each time.
