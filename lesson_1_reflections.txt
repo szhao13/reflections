@@ -19,3 +19,6 @@ git log gives you the history of all the commits made on the repository, and git
 
 How might using version control make you more confident to make changes that could break something?
 I can easily revert to a version that I know works if something goes wrong.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+writing my first app!
