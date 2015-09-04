@@ -12,3 +12,6 @@ You can work offline and you don't have to resolve conflicts between your local 
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder
 If you wanted to collaborate without using Git or GitHub, you could use email or Dropbox to share files. It would be easier to share the change because you wouldn't need to add, commit, push and then merge - but then you would have to meet up to discuss conflicts each time.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Having a separate branch allows you to work on experimental changes and features that could break your main product and aren't production ready yet.
